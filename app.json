@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "pwr_sales_novo",
+    "slug": "pwr_sales_novo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

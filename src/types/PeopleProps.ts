@@ -1,0 +1,23 @@
+export type PeopleProps = {
+    cod_pessoa?: number,
+    razao: string,
+    fantasia?: string,
+    cnpj_cpf?: string,
+    tipo_pessoa: string,
+    ativo: string,
+    ie_rg?: string,
+    cliente: string,
+    anotacoes?: string,
+    dt_nascto?: string,
+    representante: string,
+    cod_repres?: number,
+    cod_logradouro?: number,
+    endereco?: string,
+    numero?: string,
+    bairro?: string,
+    nome_cidade?: string,
+    cod_cidade?: number,
+    cod_estado?: string,
+    cep?: string,
+    complemento?: string
+}
